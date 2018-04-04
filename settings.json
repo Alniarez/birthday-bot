@@ -1,0 +1,6 @@
+{
+  "description": "Birthday bot\nJust a small bot that keeps track remember everybody's birthday.",
+  "prefixes": ["!", ">>"],
+  "token": "YOUR OWN BOT TOKEN HERE",
+  "cogs": ["cogs.birthday_cog"]
+}
